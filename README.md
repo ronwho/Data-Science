@@ -9,4 +9,4 @@ Skills used:
 1. Pandas for data wrangling
 2. Matplotlib for data visiualization
 3. Linalg.svd (single value decomposition) for dimension reduction
-![](/imgs/eda1.jpg)
+![](/imgs/eda1.JPG)
