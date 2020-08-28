@@ -6,7 +6,7 @@
 * This paper looks at the allelic differences among a wide variety of ethnicities across the world.
 * I wanted to see if there were any inconsistencies in the gene expressions based on the time elapsed
 * For the final result, I found that after 100 days of sampling, there was a inconsistency with the data
-Skills used:
+#### Skills used:
 1. Pandas for data wrangling
 2. Matplotlib for data visiualization
 3. Linalg.svd (single value decomposition) for dimension reduction
