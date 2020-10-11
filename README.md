@@ -12,3 +12,15 @@
 2. Matplotlib for data visiualization
 3. Linalg.svd (single value decomposition) for dimension reduction
 ![](/imgs/eda1.JPG)
+
+### [EDA: Is there Bias in Pollsters in Elections Polls](https://github.com/ronwho/Data-Science/blob/master/EDA%20Is%20there%20Bias%20in%20Pollsters%20in%20Elections%20Polls.ipynb)
+* I examined a dataset of the 2012 Mitt Romney and Obama general election from the Huffingtonpost Pollster found here: https://elections.huffingtonpost.com/pollster/2012-general-election-romney-vs-obama
+* This dataset looks at various pollsters from many different sources. It includes the number of polls, score of Obama and Romney,etc.
+* I wanted to see if there were any bias across a large variety of polsters.
+* For the final result, I found that the polls were not biased because the standard deviation real data's standard deviation is smaller than the standard deviation we simulated assuming that the data is not biased
+### Skills used:
+1. Pandas for data wrangling
+2. Matplotlib for data visiualization
+3. NumPy (standard error, random binomial distribution)
+4. SciPy (qqplot)
+
