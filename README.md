@@ -1,5 +1,6 @@
 # Data-Science
 ## 2020 Summer Data Science Learning
+##### Note: These projects were done in conjunction with data science courses I was taking. They demonstrate my ability to implement what I've learned.
 
 ### [EDA: Effect of Time Elapsed on Gene Expressions](https://github.com/ronwho/Data-Science/blob/master/EDA%20Effect%20of%20Time%20Elapsed%20on%20Gene%20Expressions.ipynb)
 * I examined a dataset of gene expressions found in this research paper. https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE5859
