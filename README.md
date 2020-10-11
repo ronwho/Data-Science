@@ -26,3 +26,13 @@
 
 ![](/imgs/eda2.JPG)
 
+### [EDA: Picking the Most Effective Baseball Players using Sean Lahman's Dataset](https://github.com/ronwho/Data-Science/blob/master/EDA%20Picking%20Baseball%20Players%20Using%20Linear%20Regression.ipynb)
+* I examined a Sean Lahman's Baseball database found here: http://www.seanlahman.com/baseball-archive/statistics/
+* Using Sean Lahman's Baseball Database preceding from 2002, I would like to pick 10 offensive players that keeps the payroll under 20 million dollars, also predict how many games this team would win in a 162 game season
+* For the final result, I successfully found a group of baseball players from each position under the budget of 20 million dollars and it is predicted they will be able to win 98 games in a 162 game season.
+### Skills used:
+1. Pandas for data wrangling
+2. Matplotlib for data visiualization
+3. linear_model (Linear Regression)
+
+![](/imgs/eda3.JPG)
