@@ -23,5 +23,6 @@
 2. Matplotlib for data visiualization
 3. NumPy (standard error, random binomial distribution)
 4. SciPy (qqplot)
+
 ![](/imgs/eda2.JPG)
 
